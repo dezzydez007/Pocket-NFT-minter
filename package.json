@@ -1,5 +1,10 @@
 {
-  "name": "dez-pocket-nft",
-  "license": "UNLICENSED",
-  "packageManager": "yarn@3.1.1"
+  "name": "Pocket-NFT-minter",
+  "version": "1.0.0",
+  "description": "NFT Minter for Moralis-Avalanche Submision",
+  "main": "index.js",
+  "repository": "https://github.com/dezzydez007/Pocket-NFT-minter.git",
+  "author": "dezzydez007 <nkefuan@yahoo.com>",
+  "license": "MIT",
+  "private": true
 }
