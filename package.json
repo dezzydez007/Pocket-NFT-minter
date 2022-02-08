@@ -1,7 +1,7 @@
 {
-  "name": "Pocket-NFT-minter",
+  "name": "pocket-nft-minter",
   "version": "1.0.0",
-  "description": "NFT Minter for Moralis-Avalanche Submision",
+  "description": "Simple Pocket NFT Minter",
   "main": "index.js",
   "repository": "https://github.com/dezzydez007/Pocket-NFT-minter.git",
   "author": "dezzydez007 <nkefuan@yahoo.com>",

@@ -35,7 +35,10 @@ async function submit(){
     let metadata = {
         name: document.querySelector('#input_name').value,
         description: document.querySelector('#input_description').value,
-        image: "/ipfs/" + imageHash
+        image: "/ipfs/" + imageHash,
+        name: document.querySelector('#input_NoNH').value, //Name of Njangi House
+        name: document.querySelector('#input_NHSg').value,//Njangi House Slogan
+        
     }
     console.log(metadata);
     const jsonFile = new Moralis.File("metadata.json", {base64 : btoa(JSON.stringify(metadata))});
