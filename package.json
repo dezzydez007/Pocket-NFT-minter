@@ -1,10 +1,21 @@
 {
-  "name": "pocket-nft-minter",
+  "name": "njangi-nft-minter",
   "version": "1.0.0",
   "description": "Simple Pocket NFT Minter",
   "main": "index.js",
-  "repository": "https://github.com/dezzydez007/Pocket-NFT-minter.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dezzydez007/Pocket-NFT-minter.git"
+  },
   "author": "dezzydez007 <nkefuan@yahoo.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/dezzydez007/Pocket-NFT-minter/issues"
+  },
+  "homepage": "https://github.com/dezzydez007/Pocket-NFT-minter#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
