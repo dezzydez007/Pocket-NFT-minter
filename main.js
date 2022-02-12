@@ -35,9 +35,10 @@ async function submit(){
     let metadata = {
         name: document.querySelector('#input_name').value,
         description: document.querySelector('#input_description').value,
+        name: document.querySelector('#input_Name_of_Njangi_House').value, //Name of Njangi House
+        name: document.querySelector('#input_Njangi_Slogan').value,//Njangi House Slogan
         image: "/ipfs/" + imageHash,
-        name: document.querySelector('#input_NoNH').value, //Name of Njangi House
-        name: document.querySelector('#input_NHSg').value,//Njangi House Slogan
+
         
     }
     console.log(metadata);
