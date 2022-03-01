@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Simple Pocket NFT Minter",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": "https://github.com/dezzydez007/Pocket-NFT-minter.git",
   "author": "dezzydez007 <nkefuan@yahoo.com>",
   "license": "MIT",
