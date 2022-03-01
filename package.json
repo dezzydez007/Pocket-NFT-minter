@@ -4,7 +4,7 @@
   "description": "Simple Pocket NFT Minter",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "npm start"
   },
   "repository": "https://github.com/dezzydez007/Pocket-NFT-minter.git",
   "author": "dezzydez007 <nkefuan@yahoo.com>",
